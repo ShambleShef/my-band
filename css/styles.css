@@ -1,0 +1,45 @@
+.picture{
+  width: 40%;
+  height: 20%;
+  margin: 12px;
+
+}
+.content-header{
+  border-color: blue;
+  border-bottom: solid;
+}
+.content-header-icon{
+}
+.content-header-title{
+}
+h1.title{
+  font-style: italic;
+  color: #f00;
+}
+body{
+   text-align: center;
+   background-color: grey;
+
+}
+.short-description{
+  text-align: left;
+}
+.eng{
+  font-style: italic;
+  font-weight: bold;
+}
+.blog4{
+  background: black;
+  border-color: black;
+  border: solid;
+  font-style: italic;
+  font-weight: bold;
+  float: left;
+  color: white;
+}
+.live {
+  width: 50%;
+  height: 20%;
+  margin: 12px;
+  float: right;
+}
